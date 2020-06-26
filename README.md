@@ -1,1 +1,1 @@
-A testing web Shop project build with localhost and mongoDb
+A Building web applcation for testing JavaScript, MongoDB, RESTApi skill
