@@ -1,1 +1,1 @@
-A Building web applcation for testing JavaScript, MongoDB, RESTApi skill
+A Building web applcation for testing JavaScript, MongoDB
